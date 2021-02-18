@@ -1,10 +1,10 @@
 # 1
-Number One is Prime
+## Number One is Prime
 
-    Prime Numbers have Prime Property.
-    Prime Property is number One Property of indivisibility.
-    Number One is Prime.
-    Prime meaning is indivisible.
+Prime Numbers have Prime Property.  
+Prime Property is number One Property of indivisibility.  
+Number One is Prime.  
+Prime meaning is indivisible.
 
 ```python
 from random import randint
